@@ -43,3 +43,37 @@
     color: black;
     border-bottom: 2px solid black;
 }
+
+#display-principal{
+    height: 420px;
+    width: 1300px;
+    position: relative;
+    top:200px;
+    left: 40px;
+    background-color: black;
+    /*temporario*/
+}
+
+.divisoria-noticias{
+    height: 400px;
+    width: 48%;
+    background-color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+#noticia-destaque{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+}
+
+.noticia-principais{
+    /*display: inline-block;*/
+    height: 48%;
+    width: 48%;
+    margin: 5px 5px;
+    background-color: aqua;
+    float: right;
+}
